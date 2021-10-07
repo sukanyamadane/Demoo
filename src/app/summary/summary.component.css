@@ -1,0 +1,21 @@
+.card-title{
+    text-align: center;
+}
+.card{
+    width: 30%;
+    margin-left: 35%;
+}
+.image1{
+    width: 60%;
+    margin-right: 60%;
+}
+.image2{
+    width:80%;
+    margin-right: 30%;
+}
+.text{
+    font-size: 12px;
+}
+.big-text{
+    font-size: 12px;
+}
